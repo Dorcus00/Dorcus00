@@ -1,11 +1,9 @@
-- 👋 Hi, I’m Dorcus Nyangasi
-- 👀 I’m interested in Analysing and driving insights from data
-- 🌱 I’m currently learning machine learning and advanced SQL
-- 💞️ I’m looking to collaborate on various projects that involve data
-- 📫 Reach me at dorcusnyangasi00@gmail.com, +254757660395
 
+👋 Hi there! I'm Dorcus Nyangasi, a data enthusiast with a Bachelor's degree in Applied Statistics with Computing and a Certificate in Data Analytics. I have a passion for transforming data into actionable insights and solving real-world problems through analytical techniques.
 
-<!---
-Dorcus00/Dorcus00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 On my GitHub, you'll find projects that showcase my skills in data analysis, statistical modeling, and visualization. I'm particularly interested in analysing and interpreting data to gain insights.
+
+🌱 I’m continuously learning and exploring new technologies, and I’m always excited to collaborate on projects that push the boundaries of data exploration.
+
+📫 Feel free to connect with me or check out my repositories!
+ Reach me at dorcusnyangasi00@gmail.com, +254757660395
